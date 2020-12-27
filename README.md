@@ -1,9 +1,9 @@
 # Terraform
 
-#### A terraform file that deploys an EC2 with apache2 installed on AWS.
+#### A terraform file that deploys an EC2 (publicly accessible with ssh and http/https) with apache2 installed on AWS.
 
 
-The resources created to achieve that goal.
+The following resources created to achieve that goal.
 
 1. Create vpc
 2. Create Internet Gateway
